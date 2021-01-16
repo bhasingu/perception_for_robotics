@@ -29,10 +29,15 @@ There are 3 packages in this repository:
 ![](3D_object_detection_and_instance_segmentation/data/test/est_depth/depth_map_000015.jpg)
 
 ### Bounding boxes around cars in left images using YOLOv3
+![](3D_object_detection_and_instance_segmentation/data/test/bounding_box/bounding_box_000011.jpg)
+![](3D_object_detection_and_instance_segmentation/data/test/bounding_box/bounding_box_000012.jpg)
+![](3D_object_detection_and_instance_segmentation/data/test/bounding_box/bounding_box_000013.jpg)
+![](3D_object_detection_and_instance_segmentation/data/test/bounding_box/bounding_box_000014.jpg)
+![](3D_object_detection_and_instance_segmentation/data/test/bounding_box/bounding_box_000015.jpg)
+
+### Instance segmentation on left stereo images for every detected car
 ![](3D_object_detection_and_instance_segmentation/data/test/est_segmentation/000011.jpg)
 ![](3D_object_detection_and_instance_segmentation/data/test/est_segmentation/000012.jpg)
 ![](3D_object_detection_and_instance_segmentation/data/test/est_segmentation/000013.jpg)
 ![](3D_object_detection_and_instance_segmentation/data/test/est_segmentation/000014.jpg)
 ![](3D_object_detection_and_instance_segmentation/data/test/est_segmentation/000015.jpg)
-
-### Instance segmentation on left stereo images for every detected car
